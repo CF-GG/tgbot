@@ -5,3 +5,4 @@ sqlalchemy
 python-telegram-bot==11.1.0
 psycopg2-binary
 feedparser
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
